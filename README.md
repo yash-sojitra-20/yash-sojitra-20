@@ -13,22 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
+# Hi there! 👋 I'm Yash Sojitra
 
-![Wave GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
-I'm Yash Sojitra, a passionate software developer focusing on AI/ML and JAVA. I'm currently a Semester 5 student.
-
+<table>
+  <tr>
+    <td>
+      
 ## About Me
 
 - 🌱 I’m currently learning **Machine Learning** and **JAVA**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: I love hiking and often find inspiration for my coding projects during outdoor adventures!
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ## 🛠️ Tech Stack
-
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
@@ -48,5 +45,14 @@ I'm Yash Sojitra, a passionate software developer focusing on AI/ML and JAVA. I'
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-sojitra-918107256/) 
-[![Gmail](https://img.shields.io/badge/Gmail-YourEmail-red?style=flat&logo=gmail)](mailto:yash.sojitra.2020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YashSojitra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-sojitra-918107256/) 
+[![Gmail](https://img.shields.io/badge/Gmail-yash.sojitra.2020@gmail.com-red?style=flat&logo=gmail)](mailto:yash.sojitra.2020@gmail.com)
+
+</td>
+<td>
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</td>
+  </tr>
+</table>
