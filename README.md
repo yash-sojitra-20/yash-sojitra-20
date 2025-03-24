@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Yash Sojitra
 
-<table>
-  <tr>
-    <td>
-      
 ## About Me
 
 - 🌱 I’m currently learning **Machine Learning** and **JAVA**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: I love hiking and often find inspiration for my coding projects during outdoor adventures!
+
+<table>
+  <tr>
+    <td>
 
 ## 🛠️ Tech Stack
 
@@ -73,3 +73,25 @@ Here are some ideas to get you started:
 </td>
   </tr>
 </table>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-sojitra-20&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-sojitra-20&theme=radical" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yash-sojitra-20&theme=radical&utcOffset=8" alt="Productive Time" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash-sojitra-20&theme=radical" alt="Most Used Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-sojitra-20&theme=onedark&row=1&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+
