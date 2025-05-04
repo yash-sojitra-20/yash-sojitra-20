@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🌱 I’m currently learning **Machine Learning** and **JAVA**
+- 🌱 I’m currently focusing on **Artificial intelligence**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: I love hiking and often find inspiration for my coding projects during outdoor adventures!
+- ⚡ Fun fact: I love traveling and often find inspiration for my coding projects during outdoor adventures!
 
 <table>
   <tr>
@@ -78,12 +78,38 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 
 <div align="center">
+
+  <!-- GitHub Readme Streak Stats with 'radical' theme -->
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=yash-sojitra-20&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=yash-sojitra-20&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sojitra-20&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </picture>
+
+  <br />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-sojitra-20&theme=radical" alt="GitHub Stats" />
   <br />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-sojitra-20&theme=radical" alt="GitHub Stats Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yash-sojitra-20&theme=radical&utcOffset=8" alt="Productive Time" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash-sojitra-20&theme=radical" alt="Most Used Languages" />
+
+  <!-- Most Used Languages with 'radical' theme -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sojitra-20&layout=compact&theme=radical&hide_border=true&langs_count=10"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sojitra-20&layout=compact&theme=radical&hide_border=true&langs_count=10"
+      media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sojitra-20&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  </picture>
+  
 </div>
 
 ---
