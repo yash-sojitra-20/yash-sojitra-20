@@ -4,7 +4,7 @@
 - I’m currently focusing on **Artificial intelligence**
 - I’m looking to collaborate on **Open Source Projects**
 - Fun fact: I love traveling and often find inspiration for my coding projects during outdoor adventures!
----
+
 <table>
   <tr>
     <td>
@@ -57,6 +57,8 @@
 </td>
   </tr>
 </table>
+
+---
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats:
