@@ -1,31 +1,15 @@
-<!--
-**yash-sojitra-20/yash-sojitra-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there! 👋 I'm Yash Sojitra
-
+---
 ## About Me
-
-- 🌱 I’m currently focusing on **Artificial intelligence**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: I love traveling and often find inspiration for my coding projects during outdoor adventures!
-
+- I’m currently focusing on **Artificial intelligence**
+- I’m looking to collaborate on **Open Source Projects**
+- Fun fact: I love traveling and often find inspiration for my coding projects during outdoor adventures!
+---
 <table>
   <tr>
     <td>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)
 ![Spring MVC](https://img.shields.io/badge/-Spring_MVC-05122A?style=flat&logo=spring)
@@ -60,7 +44,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YashSojitra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-sojitra-918107256/) 
 [![Gmail](https://img.shields.io/badge/Gmail-yash.sojitra.2020@gmail.com-red?style=flat&logo=gmail)](mailto:yash.sojitra.2020@gmail.com)
@@ -75,7 +59,7 @@ Here are some ideas to get you started:
 </table>
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
 
@@ -114,7 +98,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yash-sojitra-20&theme=onedark&row=1&margin-w=15" alt="GitHub Trophies" />
